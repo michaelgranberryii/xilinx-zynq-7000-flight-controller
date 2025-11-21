@@ -28,6 +28,10 @@ This is a custom flight controller for a quadcopter drone, implemented on a Zynq
 
 ## Images
 
+Block Design
+
+![alt text](images/block-design.png)
+
 Additional sensors (barometer, GPS, magnetometer, camera, etc.) are being integrated to enable features such as altitude hold, position hold, and object avoidance/detection.
 
 ![alt text](images/flight-controller-bottom.png)
